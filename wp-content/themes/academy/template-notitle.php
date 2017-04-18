@@ -167,7 +167,7 @@ Template Name: NoTitle
 						 ?>
 						<?php //echo ThemexUser::$data['user']['profile']['first_name']; ?>
 					</b>!</h1>
-						<h3>Sejauh mana progress belajar pemrograman mobile mu hari ini?</h3>
+						<h3>Sejauh mana progress belajar akuntansi mu hari ini?</h3>
 					</div>
 					<div class="column fivecol last">
 						<br><br>
@@ -196,9 +196,9 @@ Template Name: NoTitle
 							<?php //the_content(); ?>
 							<div class="column sevencol">
 								<img src="<?php echo THEME_URI; ?>images/transparentandroid.png" style="margin:140px 0 30px 0;">
-								<h1 style="font-size:30px;margin-bottom:0;margin-top:50px;">Selamat Datang di <b>CodeMob</b>!</h1>
-								<p class="lead">CodeMob adalah bahan ajar berbasis web yang digunakan untuk
-								membantu siswa SMK Negeri 4 Malang dalam mempelajari materi pemrograman perangkat bergerak.</p><br>
+								<h1 style="font-size:30px;margin-bottom:0;margin-top:50px;">Selamat Datang di <b>E-Learning Akuntansi</b>!</h1>
+								<p class="lead">E-Learning akuntansi adalah sarana belajar berbasis web yang digunakan untuk
+								membantu siswa SMK Negeri 11 Malang dalam mempelajari materi Akuntansi.</p><br>
 								<div class="buttongroup">
 									<div class="main-nav"><a href="#" class="cd-signin whitebutton homebutton greenbtn">Mulai Belajar</a></div>
 									<a href="#feature" class="cd-signin whitebutton homebutton">Lihat Fitur</a>
@@ -237,7 +237,7 @@ Template Name: NoTitle
 							<br><br>
 							<hr><br>
 							<!-- <img src="<?php echo THEME_URI; ?>images/logoCP.png" style="height:40px;"> -->
-							<img src="<?php echo THEME_URI; ?>images/logosmk4.png" class="rigaht" style="height:40px;">
+							<img src="<?php echo THEME_URI; ?>images/logosmk11.png" class="rigaht" style="height:130px;">
 						</div>
 						</center>
 					</div>

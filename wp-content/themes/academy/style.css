@@ -1292,7 +1292,7 @@ ul.tabs{
 	/*padding-bottom:5px;*/
 	background:#fff;
 	color:#444;
-	border-bottom: 1px solid #22b366;
+	border-bottom: 1px solid #51b3d0;
 }
 
 .horizontal-tabs .tabs li.current a,
@@ -3215,7 +3215,7 @@ p + .quiz-listing {
 	padding:0.7em 15px;
 	border:1px solid rgba(0,0,0,0.01);
 	/*border-bottom-color:#3d4e5b;*/
-	background-color:#22b366 !important;
+	background-color:#51b3d0 !important;
 	
 	color:#fff;
 	/*text-shadow:0 -1px 0 rgba(0,0,0,0.2);	*/
@@ -4278,14 +4278,14 @@ h5.nomargin{
 }
 
 .tombolhijau{
-	background: #22b366 !important;
+	background: #70c2d8 !important;
 	text-transform: uppercase;
 	font-family: 'OpenSans',Arial !important;
 	font-size: 11px !important;
 	letter-spacing: 0.8px;
 	padding: 7px 25px !important;
 	border: none !important;
-	border-bottom: 2px solid #00a294 !important;
+	border-bottom: 2px solid #51b3d0 !important;
 	font-weight: 700;
 }
 input[type="submit"]{
@@ -4319,7 +4319,7 @@ input[type="submit"]{
 	border-radius: 50px;
 	width: 40px;
 	height: 40px;
-	border: 2px solid #22b366;
+	border: 2px solid #51b3d0;
 }
 .roundedimage{
 	-webkit-border-radius: 100px;
@@ -4745,7 +4745,7 @@ xsigin/signup popup
 	padding: 8px 15px !important;
 }
 .whitebutton:hover{
-	border: 1px solid #22b366 !important;
+	border: 1px solid #51b3d0 !important;
 }
 .whitebutton.round{
 	margin-top: 3px;
@@ -4781,10 +4781,10 @@ xsigin/signup popup
 }
 
 .bordertop{
-	border-top: 5px solid #22b366;
+	border-top: 5px solid #51b3d0;
 }
 .treesbg{
-	background: url(images/pohon.jpg) no-repeat top center;
+	background: url(images/homepage.jpg) no-repeat top center;
 	/*background-repeat: no-repeat;*/
 	background-size: cover;
 	/*background-size: content;*/
@@ -4825,7 +4825,7 @@ textarea#comment{
 	border-radius:50px;
 }
 .greenbtn{
-	background:#5cc771 !important;
+	background:#70c2d8 !important;
 	color: #fff !important;
 }
 .main-nav{
